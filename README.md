@@ -1,8 +1,4 @@
-### Hello there!
-
-I'm really eager to learn more about embedded systems and development environments.  I'm starting this journey with what I believe are the fundamentals: learning to program in C and understanding computer architecture.  I am always happy to hear anybody's $0.02!
-
-Little bit out me: I like skiing, jiu jitsu, yoga, and my guilty pleasures all contain red no. 40 :)
+HI there! My background is in physics and optical engineering.  I am currently part of a team that's working on developing free-space optical communications.  I'm looking to expand into embedded software, starting with what I believe are the fundamentals: learning to program in C and understanding computer architecture.  I am always happy to hear anybody's $0.02!
 
 <!--
 **red40jen/red40jen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
